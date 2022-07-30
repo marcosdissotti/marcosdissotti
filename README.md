@@ -2,9 +2,8 @@
 
 - 🔭 I’m Frontend Engineer with 3+ years experience in react, redux, typescript, jest and testing-library developing web applications at Goomer startup and iClouds with outsourcing how to digital delivery menu, dashboard to restaurants and site of news. 
 - 🌱 I’m currently learning next.js
-- 👯 I’m looking to collaborate on social projects that I would like speak english.
+- 🔎 I’m looking to collaborate on social projects that I would like speak english.
 - 💬 Ask me about react, typescript, redux or jest
-- 📫 How to reach me: marcosdissotti@gmail.com 
 - ⚡ Fun fact: I have gotten all achievements from Elden Ring 
 
 

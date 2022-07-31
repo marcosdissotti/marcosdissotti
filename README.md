@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning next.js
 - 🔎 I’m looking to collaborate on social projects that I would like speak english.
 - 💬 Ask me about react, typescript, redux or jest
-- ⚡ Fun fact: I have gotten all achievements from Elden Ring souls game.
 
 
 <div>

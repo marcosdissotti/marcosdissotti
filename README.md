@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi there 👋
 
 - 🔭 I’m Frontend Engineer with 3+ years experience in react, redux, typescript, jest and testing-library developing web applications at Goomer startup and iClouds with outsourcing how to digital delivery menu, dashboard to restaurants and site of news. 
 - 🌱 I’m currently learning next.js
